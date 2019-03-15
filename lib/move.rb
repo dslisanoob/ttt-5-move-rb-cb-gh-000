@@ -8,5 +8,5 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(ip)
-  index = ip}.to_i
+  ip = ip.to_i
 end
