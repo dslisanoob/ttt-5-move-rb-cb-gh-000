@@ -10,6 +10,6 @@ end
 def input_to_index(ip)
   ip = ip.to_i - 1
 end
-def move(board,ip,char=X)
+def move(board,ip,char = "X")
   
 end
